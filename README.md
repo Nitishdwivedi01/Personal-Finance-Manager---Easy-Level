@@ -5,12 +5,12 @@ Finance file contains the synthetic data made by AI, If you upload data using co
 
 This project is designed to track personal financial transactions with a focus on learning and practicing:
 
-File handling with CSV.
-Date parsing and filtering transactions by date range.
-Handling Income & Expense categories with subcategories.
-Avoiding duplicate entries.
-Summarizing data to calculate total income, total expenses, and profit/loss.
-The project is modular, allowing you to expand functionality into advanced levels (dashboards, visualizations, database integration, etc.).
+File handling with CSV./
+Date parsing and filtering transactions by date range./
+Handling Income & Expense categories with subcategories./
+Avoiding duplicate entries./
+Summarizing data to calculate total income, total expenses, and profit/loss./
+The project is modular, allowing you to expand functionality into advanced levels (dashboards, visualizations, database integration, etc.)./
 
 ⚡ Features Implemented (Easy Level)
 
@@ -37,25 +37,25 @@ The project is modular, allowing you to expand functionality into advanced level
 🛠️ Technologies Used
 
 Python 3.x
-pandas (for data handling & filtering)
-CSV module (file storage)
-datetime (date parsing & filtering)
+pandas (for data handling & filtering)./
+CSV module (file storage)./
+datetime (date parsing & filtering)./
 
 ▶️ How to Run
-Clone the repository or download files and same all in one folder
-Install dependencies (if not already installed)
-Run the project:- python Main_data.py
+Clone the repository or download files and same all in one folder./
+Install dependencies (if not already installed)./
+Run the project:- python Main_data.py./
 
 Example Usage
-Enter the date (DD-MM-YYYY) or press Enter for today's date: 26-09-2025  
-Enter amount: 1500  
-Enter the expense type (I/Income or E/Expense): E  
-Please define the category of the expense: Water  
-Enter a short description: Paid water bill  
+Enter the date (DD-MM-YYYY) or press Enter for today's date: 26-09-2025./
+Enter amount: 1500 / 
+Enter the expense type (I/Income or E/Expense): E  /
+Please define the category of the expense: Water  /
+Enter a short description: Paid water bill  /
 
 ⭐ Contributions are welcome! Future advanced versions will need:
 
-Better UI
-Database integration
-Visualization modules
-Feel free to fork the repo and create a pull request
+➡️Better UI
+➡️Database integration
+➡️Visualization modules
+➡️Feel free to fork the repo and create a pull request
